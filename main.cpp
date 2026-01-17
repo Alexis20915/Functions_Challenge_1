@@ -1,4 +1,12 @@
 // Alexis Lopez Echevarria, 1/16/26, Calculate Area and Perimeter based on given lengths or widths depending on whats given and which option is chosen.
+// AI ASSISTANCE DISCLOSURE
+//
+// Tool(s) Used: [ChatGPT]
+// Date(s) of Use: [1/16/2026]
+//
+// Description of Use: 
+// ChatGPT was used to find where i made spelling mistakes, replacing : with ; or finding where it technically went wrong without the program giving me an error.
+//
 #include <iostream>
 using namespace std;
 
